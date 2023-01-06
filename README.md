@@ -1,1 +1,1 @@
-# SimpleAtificialNeuralNetwork
+# AtificialNeuralNetwork
